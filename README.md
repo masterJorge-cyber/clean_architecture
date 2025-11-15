@@ -53,8 +53,8 @@ Para ver a arquitetura SOLID em ação, siga estes passos simples de um verdadei
 1.  **Clone o Repositório:**
 
     ```bash
-    git clone https://www.youtube.com/watch?v=m_6f3r-fwsE
-    cd solidify-one-piece
+    git clone "link"
+    cd clean_architecture
     ```
 
 2.  **Crie o Ambiente Virtual (Recomendado):**
@@ -90,9 +90,5 @@ Se você avistar uma ilha com um tesouro de código melhor (um novo exemplo de S
 5.  Envie um Pull Request\!
 
 -----
-
-## 📜 Licença
-
-Este projeto está sob a Licença MIT. Sinta-se à vontade para usá-lo como quiser\!
 
 **Que os ventos da arquitetura limpa soprem a nosso favor\!** 💨
